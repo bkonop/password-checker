@@ -1,0 +1,53 @@
+html {
+    color: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+}
+
+#top_bar {
+    background-color: rgb(42, 62, 133);
+    color: white;
+}
+
+#header_wrapper {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 0;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: rgb(42, 62, 133);
+}
+
+.requirement {
+    color: rgb(180, 0, 0);
+}
+
+img {
+    width: 1em;
+    position: relative;
+    top: .15em;
+    padding-right: .5em;
+}
+
+dd {
+    padding-top: .5em;
+    margin-left: 1em;
+}
+
+#page_content {
+    padding: 4em;
+    padding-top: .5em;
+    width: 70%;
+    margin: auto;
+}
+
+h2 {
+    color: rgb(42, 62, 133);
+}
